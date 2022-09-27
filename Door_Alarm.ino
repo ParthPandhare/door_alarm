@@ -46,7 +46,7 @@ void loop() {
   }
 }
 
-//function to measure the distance (found it online)
+//function to measure the distance
 int find_Distance(){
 
   int distance;
